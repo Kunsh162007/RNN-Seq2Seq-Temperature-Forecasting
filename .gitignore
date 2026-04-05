@@ -1,0 +1,28 @@
+# Virtual environments
+venv/
+venv311/
+.venv/
+env/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+.mypy_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project-specific
+# (User wants to keep data, models, plots, results in the repo)
+# If they become too large, they should be added here
