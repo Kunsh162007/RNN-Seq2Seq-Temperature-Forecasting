@@ -2,7 +2,7 @@
 
 <img src="plots/01_dashboard.png" alt="Project Dashboard" width="100%"/>
 
-# 🧠 Sequence Models & RNNs — Deep Learning Week 7
+# 🧠 RNN & Seq2Seq Temperature Forecasting
 
 **A rigorous, end-to-end comparison of 7 recurrent neural network architectures on real-world time-series forecasting.**
 
@@ -183,7 +183,7 @@ python visualize.py --plot gradient
 ## 📁 Project Structure
 
 ```
-week7_rnn_project/
+RNN-Seq2Seq-Temperature-Forecasting/
 │
 ├── download_data.py          ← Download & validate dataset
 ├── train.py                  ← Train all 7 models, save results
